@@ -18,4 +18,5 @@
 ## 📚 Documentation
 - [Tokenomics](TOKENOMICS.md)
 - [Roadmap](ROADMAP.md)
+- [Audit](AUDIT.md)
 - [Contacts](CONTACTS.md)
